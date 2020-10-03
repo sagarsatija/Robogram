@@ -1,0 +1,21 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server":"nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarsatija/Robogram.git"
+  },
+  "author": "Sagar Satija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarsatija/Robogram/issues"
+  },
+  "homepage": "https://github.com/sagarsatija/Robogram#readme"
+}
